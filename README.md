@@ -19,3 +19,25 @@ CollegeCompanion/
 │── NoteManager.java         (Saves & Retrieves Notes)
 │── QuizGame.java            (Interactive Study Tool)
 │── AIStudyBuddy.java        (Suggests Study Plans)
+
+🚀 How It Works?
+Users Choose an Option 🎓
+
+Add assignments, take notes, play quizzes, or get study recommendations.
+
+Assignment Manager Helps Track Deadlines 📅
+
+Users can add, view, and manage assignments.
+
+Smart Notes Organizer Saves Notes 📝
+
+Notes are stored and retrieved easily.
+
+Interactive Quiz Helps in Study 🎮
+
+Engages students in learning through fun quizzes.
+
+AI Suggests Study Topics Based on Needs 📖
+
+Provides smart topic recommendations.
+
