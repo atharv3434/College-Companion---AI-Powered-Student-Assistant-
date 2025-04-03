@@ -1,7 +1,7 @@
 # College-Companion---AI-Powered-Student-Assistant
 
 
-📚 College Companion - AI-Powered Student Assistant (Java-Only Project)
+📚 College Companion - AI-Powered Student Assistant 
 A smart AI-based assistant that helps college students manage their schedule, assignments, notes, and study sessions efficiently using Java.
 
 🎯 Key Features
